@@ -20,11 +20,11 @@ In this tutorial, Let's see how to play the coffin dance theme sound on Arduino 
 
 ## Connections
 
-Piezo Buzzer is connected to D13 pin of Arduino Uno
+Piezo Buzzer is connected to D8 pin of Arduino Uno
 
 | Buzzer            |  Arduino Uno  |
 |-----------------------|---------------|
-| Buzzer |  D13 |
+| Buzzer |  D8 |
 
 ![Connections](./images/conn.png)
 
