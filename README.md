@@ -1,7 +1,7 @@
 # Arduino-Coffin-Dance-Theme
 In this tutorial, Let's see how to play the coffin dance theme sound on Arduino Uno
 
-[![Working Video](./images/youtube.png)]( link "Working of the Project - Click to Watch!")
+[![Working Video](./images/youtube.png)]( https://youtu.be/z0ElZUMAmTY "Working of the Project - Click to Watch!")
 
 ## Requirements
 
@@ -36,9 +36,9 @@ Project Repo: https://github.com/Rahul24-06/Arduino-Coffin-Dance-Theme/
 
 ## Play Time!
 
-And thats it! Once you power up, you should now be able to hear the corresponding notes played through the buzzer. If the note isn't accurate, you can adjust the note value in the Arduino sketch to set what value that the pitch is achieved. You can also change the scale that is played by uncommenting one of the few scales included, or make your own scale! If you make your own player, please comment and show us some pictures and videos. <link>
+And thats it! Once you power up, you should now be able to hear the corresponding notes played through the buzzer. If the note isn't accurate, you can adjust the note value in the Arduino sketch to set what value that the pitch is achieved. You can also change the scale that is played by uncommenting one of the few scales included, or make your own scale! If you make your own player, please comment and show us some pictures and videos. https://youtu.be/z0ElZUMAmTY
 
-[![Working Video](./images/youtube.png)](<link> "Working of the Project - Click to Watch!")
+[![Working Video](./images/youtube.png)](https://youtu.be/z0ElZUMAmTY "Working of the Project - Click to Watch!")
 
 
 *If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
