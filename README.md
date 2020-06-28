@@ -49,8 +49,6 @@ And thats it! Once you power up, you should now be able to hear the correspondin
 
 *Github - https://github.com/Rahul24-06*
 
-*Instagram - https://www.instagram.com/the_lonely_programmer/*
-
 *Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1*
 
 **Thanks for reading!**
